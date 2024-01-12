@@ -1,6 +1,9 @@
 <h1>Movies Recommendation</h1>
 This application allows users to discover random movies based on selected genres using the The Movie Database (TMDb) API.
 
+# Hosted Link
+https://arunesh-singhh.github.io/Movies-Recommendation/
+
 <h2>Introduction</h2>
 The Movie Randomizer is a simple web application that leverages the TMDb API to fetch movies based on selected genres. Users can choose a genre from the dropdown menu, and the application will display a random movie from that category.
 
